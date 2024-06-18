@@ -1,5 +1,3 @@
-# Training YOLOv8 on Custom Dataset with Google Colab
-
 ### 1. Mount the Google Drive
 First, you need to mount your Google Drive to access and save files:
 ```python
@@ -46,7 +44,14 @@ After training, you can test the model using the following command:
 ```
 Replace `/content/runs/detect/train/weights/best.pt` with the path to your trained model weights and `/content/dataset/test/images` with the path to your test images.
 
-### Example of Detected Image
-Here is an example of an image with detections made by the trained YOLOv8 model:
+### Example of Detected Images
+Here is a table with four example images with detections made by the trained YOLOv8 model:
 
-![Detected Image](https://github.com/janith99hansidu/YOLOv8-on-Custom-Dataset/blob/main/assets/train_batch402.jpg)
+| Example 1 | Example 2 | Example 3 | Example 4 |
+|-----------|-----------|-----------|-----------|
+| ![Example Image 1](https://github.com/janith99hansidu/YOLOv8-on-Custom-Dataset/blob/main/assets/train_batch401.jpg) | ![Example Image 2](https://github.com/janith99hansidu/YOLOv8-on-Custom-Dataset/blob/main/assets/train_batch402.jpg) | ![Example Image 3](https://github.com/janith99hansidu/YOLOv8-on-Custom-Dataset/blob/main/assets/train_batch403.jpg) | ![Example Image 4](https://github.com/janith99hansidu/YOLOv8-on-Custom-Dataset/blob/main/assets/train_batch404.jpg) |
+
+### Result Image
+Below is a result image made while training YOLOv8 model:
+
+![Result Image](https://github.com/janith99hansidu/YOLOv8-on-Custom-Dataset/blob/main/assets/result.png)
