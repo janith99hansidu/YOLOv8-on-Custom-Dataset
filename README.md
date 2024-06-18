@@ -49,9 +49,9 @@ Here is a table with four example images with detections made by the trained YOL
 
 | Example 1 | Example 2 | Example 3 | Example 4 |
 |-----------|-----------|-----------|-----------|
-| ![Example Image 1](https://github.com/janith99hansidu/YOLOv8-on-Custom-Dataset/blob/main/assets/train_batch401.jpg) | ![Example Image 2](https://github.com/janith99hansidu/YOLOv8-on-Custom-Dataset/blob/main/assets/train_batch402.jpg) | ![Example Image 3](https://github.com/janith99hansidu/YOLOv8-on-Custom-Dataset/blob/main/assets/train_batch403.jpg) | ![Example Image 4](https://github.com/janith99hansidu/YOLOv8-on-Custom-Dataset/blob/main/assets/train_batch404.jpg) |
+| ![Example Image 1](https://github.com/janith99hansidu/YOLOv8-on-Custom-Dataset/blob/main/assets/train_batch405.jpg) | ![Example Image 2](https://github.com/janith99hansidu/YOLOv8-on-Custom-Dataset/blob/main/assets/train_batch402.jpg) | ![Example Image 3](https://github.com/janith99hansidu/YOLOv8-on-Custom-Dataset/blob/main/assets/train_batch403.jpg) | ![Example Image 4](https://github.com/janith99hansidu/YOLOv8-on-Custom-Dataset/blob/main/assets/train_batch404.jpg) |
 
 ### Result Image
 Below is a result image made while training YOLOv8 model:
 
-![Result Image](https://github.com/janith99hansidu/YOLOv8-on-Custom-Dataset/blob/main/assets/result.png)
+![Result Image](https://github.com/janith99hansidu/YOLOv8-on-Custom-Dataset/blob/main/assets/results.png)
